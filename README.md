@@ -17,9 +17,9 @@
 | 10      |2017/10/20     | Introduction to Testing for Android app (User Interface Testing)| `Somkiat` and Ladarat     |
 | 11      |2017/10/27     | Introduction to Testing for Android app (Mocking data)| `Somkiat` and Ladarat     |
 | 12      |2017/11/03     | Introduction to Testing for Android app (Unit Testing)| `Somkiat` and Ladarat     |
-| 13      |2017/08/11     | Introduction to Architecture Component| `Somkiat` and Ladarat     |
-| 14      |2017/08/11     | TBD| `Somkiat`     |
-| 15      |2017/08/11     | TBD| `Somkiat`     |
+| 13      |2017/11/10     | Introduction to Architecture Component| `Somkiat` and Ladarat     |
+| 14      |2017/11/17     | TBD| `Somkiat`     |
+| 15      |2017/11/24     | TBD| `Somkiat`     |
 
 ## การให้คะแนน
 * การบ้านและงานย่อย 60%
