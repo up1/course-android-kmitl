@@ -3,7 +3,7 @@
 * เป็นการพัฒนา Android app แบบ Native ด้วยภาษา Java
 
 ## สิ่งที่จะสอน
-| ครั้งที่   | วันที่           | หัวข้อ               | ผู้สอน   |
+| ครั้งที่    | วันที่           | หัวข้อ               | ผู้สอน   |
 |:-------:|:-------------:|:------------------:|:------------------:|
 | 1      |2017/08/11     | Introduction to Android and Activity| Somkiat and Ladarat    |
 | 2      |2017/08/18     | Working with Fragment               | Ladarat and Prayoch
