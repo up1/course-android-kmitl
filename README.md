@@ -29,5 +29,17 @@
 * [Android Studio](https://developer.android.com/studio/index.html)
 * [Git](https://git-scm.com/)
 
+## การบ้าน
+| ครั้งที่    | หัวข้อ          | 
+|:-------:|:-------------|
+|1| TODO |
+|2| TODO |
+|3| TODO |
+|4| TODO |
+|5| TODO |
+|6| TODO |
+|7| TODO |
+
+
 ## การส่งงาน
 * ทำงานส่งงานด้วย Git และจะเก็บไว้ที่ Github.com [มีรายละเอียดดังนี้](https://github.com/up1/course-android-kmitl/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-Git)
