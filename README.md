@@ -11,7 +11,7 @@
 | 4      |2017/09/01     | Listview and Reclerview| `Somkiat`     |
 | 5      |2017/09/08     | User Interface in Android| Ladarat     |
 | 6      |2017/09/15     | Build your own User Interface/Widget| `Somkiat`     |
-| 7      |2017/09/22     | Managing the Lifecycle of Activity, State instance data, Persistent data| `Somkiat` and Ladarat|
+| 7      |2017/09/22     | Managing the Lifecycle of Activity<br>State instance data<br>Persistent data| `Somkiat` and Ladarat|
 | 8      |2017/09/29     | Manage data in database (SQLite, Realm and Firebase)| `Somkiat` and Ladarat     |
 | 9      |2017/10/06     | Manage data with RESTFul APIs with Retrofit + OkHttp| `Somkiat` and Ladarat     |
 | 10      |2017/10/20     | Introduction to Testing for Android app (User Interface Testing)| `Somkiat` and Ladarat     |
