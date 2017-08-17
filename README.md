@@ -8,7 +8,7 @@
 | ครั้งที่    | วันที่           | หัวข้อ               | ผู้สอน   |
 |:-------:|:-------------:|:------------------|:------------------:|
 |1|2017/08/11| [Introduction to Android and Activity](https://github.com/up1/course-android-kmitl/tree/master/slide/day01)      | `Somkiat` and Ladarat    |
-| 2      |2017/08/18     | Working with Fragment               | Ladarat and Prayoch
+| 2      |2017/08/18     | Activity and Layout              | Ladarat and Prayoch
 | 3      |2017/08/25     | Intent and Filter| `Somkiat` and  Ladarat   |
 | 4      |2017/09/01     | Listview and Reclerview| `Somkiat`     |
 | 5      |2017/09/08     | User Interface in Android| Ladarat(W) |
