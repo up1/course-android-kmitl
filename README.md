@@ -36,7 +36,7 @@
 |:-------:|:-------------|
 |1| ส่ง create new app |
 |2| Layout |
-|3| TODO |
+|3| [My Dot app](https://github.com/up1/course-android-kmitl/wiki/Lab03) |
 |4| TODO |
 |5| TODO |
 |6| TODO |
