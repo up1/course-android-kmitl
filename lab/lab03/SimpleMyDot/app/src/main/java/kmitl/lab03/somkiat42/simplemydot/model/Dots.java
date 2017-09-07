@@ -26,4 +26,9 @@ public class Dots {
         this.listener.onDotsChanged(this);
     }
 
+    public void clearAll() {
+        allDot.clear();
+        this.listener.onDotsChanged(this);
+    }
+
 }

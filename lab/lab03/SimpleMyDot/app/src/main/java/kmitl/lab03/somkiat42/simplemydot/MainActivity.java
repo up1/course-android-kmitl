@@ -13,7 +13,7 @@ import kmitl.lab03.somkiat42.simplemydot.model.Dots;
 import kmitl.lab03.somkiat42.simplemydot.view.DotView;
 
 public class MainActivity extends AppCompatActivity
-implements Dots.OnDotsChangeListener{
+implements Dots.OnDotsChangeListener, DotView.OnDotViewPressListener{
 
     private DotView dotView;
     private Dots dots;
@@ -24,6 +24,8 @@ implements Dots.OnDotsChangeListener{
         setContentView(R.layout.activity_main);
 
         dotView = (DotView) findViewById(R.id.dotView);
+        dotView.setOnDotViewPressListener(this);
+
         dots = new Dots();
         dots.setListener(this);
     }
@@ -40,5 +42,15 @@ implements Dots.OnDotsChangeListener{
     public void onDotsChanged(Dots dots) {
         dotView.setDots(dots);
         dotView.invalidate();
+    }
+
+    public void onRemoveAll(View view) {
+        dots.clearAll();
+    }
+
+    @Override
+    public void onDotViewPressed(int x, int y) {
+        Dot newDot = new Dot(x, y, 30, new Colors().getColor());
+        dots.addDot(newDot);
     }
 }

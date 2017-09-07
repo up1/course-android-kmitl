@@ -6,6 +6,7 @@ import android.graphics.Color;
 import android.graphics.Paint;
 import android.support.annotation.Nullable;
 import android.util.AttributeSet;
+import android.view.MotionEvent;
 import android.view.View;
 
 import kmitl.lab03.somkiat42.simplemydot.model.Dot;
@@ -27,6 +28,28 @@ public class DotView extends View {
                         dot.getCenterY(), 30, paint);
             }
         }
+    }
+
+    public interface OnDotViewPressListener{
+        void onDotViewPressed(int x, int y);
+    }
+
+    private OnDotViewPressListener onDotViewPressListener;
+    public void setOnDotViewPressListener(OnDotViewPressListener onDotViewPressListener) {
+        this.onDotViewPressListener = onDotViewPressListener;
+    }
+
+    @Override
+    public boolean onTouchEvent(MotionEvent event) {
+        switch (event.getAction()) {
+            case MotionEvent.ACTION_DOWN:
+                this.onDotViewPressListener
+                        .onDotViewPressed(
+                                (int)event.getX(),
+                                (int)event.getY());
+                return true;
+        }
+        return false;
     }
 
     public DotView(Context context) {
