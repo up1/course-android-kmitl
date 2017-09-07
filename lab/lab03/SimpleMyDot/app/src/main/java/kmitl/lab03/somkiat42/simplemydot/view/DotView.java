@@ -19,9 +19,9 @@ public class DotView extends View {
     @Override
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
-        paint.setColor(Color.RED);
         if(this.allDot != null) {
             for (Dot dot: allDot.getAllDot()) {
+                paint.setColor(dot.getColor());
                 canvas.drawCircle(
                         dot.getCenterX(),
                         dot.getCenterY(), 30, paint);
