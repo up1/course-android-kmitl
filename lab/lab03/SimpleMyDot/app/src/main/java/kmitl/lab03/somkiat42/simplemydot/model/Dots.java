@@ -26,9 +26,27 @@ public class Dots {
         this.listener.onDotsChanged(this);
     }
 
+    public void removeBy(int position) {
+        allDot.remove(position);
+        this.listener.onDotsChanged(this);
+    }
+
     public void clearAll() {
         allDot.clear();
         this.listener.onDotsChanged(this);
+    }
+
+    public int findDot(int x, int y) {
+        for (int i = 0; i < allDot.size(); i++) {
+            int centerX = allDot.get(i).getCenterX();
+            int centerY = allDot.get(i).getCenterY();
+            double distance = Math.sqrt(Math.pow(centerX - x, 2)) +
+                    Math.sqrt(Math.pow(centerY - y, 2));
+            if (distance <= 30) {
+                return i;
+            }
+        }
+        return -1;
     }
 
 }

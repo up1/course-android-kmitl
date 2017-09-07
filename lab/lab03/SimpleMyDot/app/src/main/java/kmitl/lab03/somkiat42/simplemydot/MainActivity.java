@@ -50,7 +50,12 @@ implements Dots.OnDotsChangeListener, DotView.OnDotViewPressListener{
 
     @Override
     public void onDotViewPressed(int x, int y) {
-        Dot newDot = new Dot(x, y, 30, new Colors().getColor());
-        dots.addDot(newDot);
+        int dotPosition = dots.findDot(x, y);
+        if(dotPosition == -1) {
+            Dot newDot = new Dot(x, y, 30, new Colors().getColor());
+            dots.addDot(newDot);
+        } else {
+            dots.removeBy(dotPosition);
+        }
     }
 }
