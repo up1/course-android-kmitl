@@ -1,5 +1,6 @@
 package lab03.kmitl.simpleapp;
 
+import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -7,13 +8,15 @@ import android.widget.TextView;
 
 import java.util.Random;
 
+import lab03.kmitl.simpleapp.model.Colors;
 import lab03.kmitl.simpleapp.model.Dot;
+import lab03.kmitl.simpleapp.model.Dots;
 import lab03.kmitl.simpleapp.view.DotView;
 
 public class MainActivity extends AppCompatActivity
-implements Dot.DotChangedListener{
+implements Dots.DotsChangedListener{
 
-    private Dot dot;
+    private Dots dots;
     private DotView dotView;
 
     @Override
@@ -22,23 +25,33 @@ implements Dot.DotChangedListener{
         setContentView(R.layout.activity_main);
 
         // Set default value
-        dot = new Dot(0, 0, 20);
-        dot.setDotChangedListener(this);
+        dots = new Dots();
+        dots.setDotsChangedListener(this);
 
         dotView = (DotView) findViewById(R.id.dotView);
+        dotView.setListener(new DotView.OnDotViewPressListener() {
+            @Override
+            public void onPress(DotView dotView, int x, int y) {
+                dots.addDot(new Dot(x, y, 50, Color.BLUE));
+            }
+        });
     }
 
     public void randomDot(View view) {
-        //Random a Dot
         Random random = new Random();
-        dot.setCenterX(random.nextInt(200));
-        dot.setCenterY(random.nextInt(200));
+        int x = random.nextInt(this.dotView.getWidth());
+        int y = random.nextInt(this.dotView.getHeight());
+
+        Colors colors = new Colors();
+        int color = colors.getColor(random.nextInt(colors.getSize()));
+
+        dots.addDot(new Dot(x, y, 20, color));
     }
 
     @Override
-    public void onDotChanged(Dot dot) {
+    public void onDotsChanged(Dots dots) {
         //Draw dot model to view
-        dotView.setDot(dot);
-        dotView.invalidate();
+        this.dotView.setDots(dots);
+        this.dotView.invalidate();
     }
 }
