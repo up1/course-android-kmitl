@@ -9,7 +9,7 @@
 |:-------:|:-------------:|:------------------|:------------------:|
 |1|2017/08/11| [Introduction to Android and Activity](https://github.com/up1/course-android-kmitl/tree/master/slide/day01)      | `Somkiat` and Ladarat    |
 | 2      |2017/08/18     | [Activity and Layout](https://github.com/up1/course-android-kmitl/tree/master/slide/day02)             | Ladarat and Prayoch
-| 3      |2017/08/25     | Building view and Model-View-Controller | `Somkiat`   |
+| 3      |2017/08/25     | [Building view and Model-View-Controller](https://github.com/up1/course-android-kmitl/tree/master/slide/day03)          | `Somkiat`   |
 | 4      |2017/09/01     | Intent and Filter<br>Listview and Reclerview| `Somkiat`     |
 | 5      |2017/09/08     | User Interface in Android| Ladarat(W) |
 | 6      |2017/09/15     | Build your own User Interface/Widget| `Somkiat`  and Ladarat   |
@@ -35,12 +35,14 @@
 | ครั้งที่    | หัวข้อ          | 
 |:-------:|:-------------|
 |1| ส่ง create new app |
-|2| Layout |
-|3| TODO |
+|2| [Activity and Layout](https://github.com/up1/course-android-kmitl/wiki/Lab02) |
+|3| [My Dot app](https://github.com/up1/course-android-kmitl/wiki/Lab03) |
 |4| TODO |
 |5| TODO |
 |6| TODO |
 |7| TODO |
+
+[ข้อมูลคะแนนการบ้านแต่ละข้อ](https://goo.gl/RwHn8j)
 
 
 ## การส่งงาน
