@@ -37,7 +37,7 @@
 |1| ส่ง create new app |
 |2| [Activity and Layout](https://github.com/up1/course-android-kmitl/wiki/Lab02) |
 |3| [My Dot app](https://github.com/up1/course-android-kmitl/wiki/Lab03) |
-|4| [My Dot app](https://github.com/up1/course-android-kmitl/wiki/lab04)|
+|4| [My Dot app](https://github.com/up1/course-android-kmitl/wiki/Lab04)|
 |5| TODO |
 |6| TODO |
 |7| TODO |
