@@ -12,15 +12,15 @@
 | 3      |2017/08/25     | [Building view and Model-View-Controller](https://github.com/up1/course-android-kmitl/tree/master/slide/day03)          | `Somkiat`   |
 | 4      |2017/09/01     |- | -    |
 | 5      |2017/09/08     | [Intent and Filter](https://github.com/up1/course-android-kmitl/tree/master/slide/day04)| Ladarat(W) and `Somkiat`|
-| 6      |2017/09/15     | Use Fragment and <br>Listview and Reclerview| `Somkiat`  and Ladarat   |
-| 7      |2017/09/22     | Managing the Lifecycle of Activity<br>State instance data<br>Persistent data| `Somkiat` and Ladarat(W) |
-| 8      |2017/09/29     | Manage data in database (SQLite, Realm and Firebase)| `Somkiat` and Ladarat(G)   |
-| 9      |2017/10/06     | Manage data with RESTFul APIs with Retrofit + OkHttp| `Somkiat` and Ladarat(G)  |
-| 10      |2017/10/20     | Introduction to Testing for Android app (User Interface Testing)| `Somkiat` and Ladarat     |
-| 11      |2017/10/27     | Introduction to Testing for Android app (Mocking data)| `Somkiat` and Ladarat     |
-| 12      |2017/11/03     | Introduction to Testing for Android app (Unit Testing)| `Somkiat` and Ladarat     |
-| 13      |2017/11/10     | Introduction to Architecture Component| `Somkiat` and Ladarat     |
-| 14      |2017/11/17     | TBD| `Somkiat`     |
+| 6      |2017/09/15     | Listview and Reclerview| Ladarat   |
+| 7      |2017/09/22     | UI and UX (useable app)  | `Somkiat`   |
+| 8      |2017/09/29     | anaging the Lifecycle of Activity<br>State instance data<br>Persistent data| `Somkiat` |
+| 9      |2017/10/06     | Manage data in database (SQLite, Realm and Firebase)| `Somkiat` and Greeta  |
+| 10      |2017/10/20     | Manage data with RESTFul APIs with Retrofit + OkHttp| `Somkiat` and Greeta  |
+| 11      |2017/10/27     | Introduction to Testing for Android app (User Interface Testing)| `Somkiat` and Ladarat     |
+| 12      |2017/11/03     | Introduction to Testing for Android app (Mocking data)| `Somkiat`   |
+| 13      |2017/11/10     | Introduction to Testing for Android app (Unit Testing)| `Somkiat`   |
+| 14      |2017/11/17     | Introduction to Architecture Component| `Somkiat` and Ladarat    |
 | 15      |2017/11/24     | TBD| `Somkiat`     |
 
 ## การให้คะแนน
@@ -38,7 +38,7 @@
 |2| [Activity and Layout](https://github.com/up1/course-android-kmitl/wiki/Lab02) |
 |3| [My Dot app (Create app)](https://github.com/up1/course-android-kmitl/wiki/Lab03) |
 |4| [My Dot app (Use intent)](https://github.com/up1/course-android-kmitl/wiki/Lab04)|
-|5| My Dot app (Use fragment) |
+|5| My Dot app (Use Listview and Reclerview) |
 |6| TODO |
 |7| TODO |
 
