@@ -38,7 +38,7 @@
 |2| [Activity and Layout](https://github.com/up1/course-android-kmitl/wiki/Lab02) |
 |3| [My Dot app (Create app)](https://github.com/up1/course-android-kmitl/wiki/Lab03) |
 |4| [My Dot app (Use intent)](https://github.com/up1/course-android-kmitl/wiki/Lab04)|
-|5| My Dot app (Use Listview and Reclerview) |
+|5| My Dot app (Use Fragment) |
 |6| TODO |
 |7| TODO |
 
