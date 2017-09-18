@@ -12,7 +12,7 @@
 | 3      |2017/08/25     | [Building view and Model-View-Controller](https://github.com/up1/course-android-kmitl/tree/master/slide/day03)          | `Somkiat`   |
 | 4      |2017/09/01     |- | -    |
 | 5      |2017/09/08     | [Intent and Filter](https://github.com/up1/course-android-kmitl/tree/master/slide/day04)| Ladarat(W) and `Somkiat`|
-| 6      |2017/09/15     | Use Fragment | Ladarat   |
+| 6      |2017/09/15     | [Use Fragment](https://github.com/up1/course-android-kmitl/wiki/Lab05) | Ladarat   |
 | 7      |2017/09/22     | UI and UX (useable app)  | Prayoch   |
 | 8      |2017/09/29     | anaging the Lifecycle of Activity<br>State instance data<br>Persistent data| `Somkiat` |
 | 9      |2017/10/06     | Manage data in database (SQLite, Realm and Firebase)| `Somkiat` and Greeta  |
@@ -38,7 +38,7 @@
 |2| [Activity and Layout](https://github.com/up1/course-android-kmitl/wiki/Lab02) |
 |3| [My Dot app (Create app)](https://github.com/up1/course-android-kmitl/wiki/Lab03) |
 |4| [My Dot app (Use intent)](https://github.com/up1/course-android-kmitl/wiki/Lab04)|
-|5| My Dot app (Use Fragment) |
+|5| [My Dot app (Use Fragment)](https://github.com/up1/course-android-kmitl/wiki/Lab05) |
 |6| TODO |
 |7| TODO |
 
