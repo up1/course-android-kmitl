@@ -14,9 +14,9 @@
 | 5      |2017/09/08     | [Intent and Filter](https://github.com/up1/course-android-kmitl/tree/master/slide/day04)| Ladarat(W) and `Somkiat`|
 | 6      |2017/09/15     | [Use Fragment](https://github.com/up1/course-android-kmitl/wiki/Lab05) | Ladarat   |
 | 7      |2017/09/22     | [UI and UX](https://github.com/up1/course-android-kmitl/wiki/Lab06)  | Prayoch   |
-| 8      |2017/09/29     | anaging the Lifecycle of Activity<br>State instance data<br>Persistent data| `Somkiat` |
-| 9      |2017/10/06     | Manage data in database (SQLite, Realm and Firebase)| `Somkiat` and Greeta  |
-| 10      |2017/10/20     | Manage data with RESTFul APIs with Retrofit + OkHttp| `Somkiat` and Greeta  |
+| 8      |2017/09/29     | - | - |
+| 9      |2017/10/06     |Manage data with RESTFul APIs with Retrofit + OkHttp| `Somkiat` and Greeta  |
+| 10      |2017/10/20     |  Manage data in database (SQLite, Realm and Firebase) Or Managing the Lifecycle of Activity<br>State instance data<br>Persistent data | `Somkiat` and Greeta  |
 | 11      |2017/10/27     | Introduction to Testing for Android app (User Interface Testing)| `Somkiat` and Ladarat     |
 | 12      |2017/11/03     | Introduction to Testing for Android app (Mocking data)| `Somkiat`   |
 | 13      |2017/11/10     | Introduction to Testing for Android app (Unit Testing)| `Somkiat`   |
