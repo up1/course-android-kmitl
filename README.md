@@ -15,7 +15,7 @@
 | 6      |2017/09/15     | [Use Fragment](https://github.com/up1/course-android-kmitl/wiki/Lab05) | Ladarat   |
 | 7      |2017/09/22     | [UI and UX](https://github.com/up1/course-android-kmitl/wiki/Lab06)  | Prayoch   |
 | 8      |2017/09/29     | - | - |
-| 9      |2017/10/06     |Manage data with RESTFul APIs with Retrofit + OkHttp| `Somkiat` and Greeta  |
+| 9      |2017/10/06     | [Manage data with RESTFul APIs with Retrofit + OkHttp](https://github.com/up1/course-android-kmitl/tree/master/slide/day07) | `Somkiat` and Greeta  |
 | 10      |2017/10/20     |  Manage data in database (SQLite, Realm and Firebase) Or Managing the Lifecycle of Activity<br>State instance data<br>Persistent data | `Somkiat` and Greeta  |
 | 11      |2017/10/27     | Introduction to Testing for Android app (User Interface Testing)| `Somkiat` and Ladarat     |
 | 12      |2017/11/03     | Introduction to Testing for Android app (Mocking data)| `Somkiat`   |
