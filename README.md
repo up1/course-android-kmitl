@@ -42,9 +42,12 @@
 |6| TODO |
 |7| TODO |
 
-[ข้อมูลคะแนนการบ้านแต่ละข้อ](https://goo.gl/RwHn8j)
+## Final project
+รายละเอียดของ [Final project](https://github.com/up1/course-android-kmitl/wiki/Final_project)
 
-[Link เสนอ Project](https://goo.gl/AidC36)
+## เอกสารเพิ่มเติม
+* [ข้อมูลคะแนนการบ้านแต่ละข้อ](https://goo.gl/RwHn8j)
+* [Link เสนอ Project](https://goo.gl/AidC36)
 
 
 ## การส่งงาน
