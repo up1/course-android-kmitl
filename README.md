@@ -42,7 +42,7 @@
 |6| TODO |
 |7| TODO |
 
-## Final project
+## Final project :cupid::cupid:
 รายละเอียดของ [Final project](https://github.com/up1/course-android-kmitl/wiki/Final_project)
 
 ## เอกสารเพิ่มเติม
