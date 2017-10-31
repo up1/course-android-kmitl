@@ -16,7 +16,7 @@
 | 7      |2017/09/22     | [UI and UX](https://github.com/up1/course-android-kmitl/wiki/Lab06)  | Prayoch   |
 | 8      |2017/09/29     | - | - |
 | 9      |2017/10/06     | [Manage data with RESTFul APIs with Retrofit + OkHttp](https://github.com/up1/course-android-kmitl/tree/master/slide/day07) | `Somkiat` and Greeta  |
-| 10      |2017/10/20     | Introduction to Testing for Android app (User Interface Testing)| `Somkiat` and Ladarat  |
+| 10      |2017/10/20     | [Introduction to Testing for Android app (User Interface Testing)](https://github.com/up1/course-android-kmitl/blob/master/slide/day08)| `Somkiat` and Ladarat  |
 | 11      |2017/10/27     | Manage data in database (SQLite, Realm and Firebase)<br>Managing the Lifecycle of Activity<br>State instance data<br>Persistent data | `Somkiat` and Ladarat  |
 | 12      |2017/11/03     | Introduction to Testing for Android app (Mocking data)| `Somkiat`   |
 | 13      |2017/11/10     | Introduction to Testing for Android app (Unit Testing)| `Somkiat`   |
@@ -41,6 +41,7 @@
 |5| [My Dot app (Use Fragment)](https://github.com/up1/course-android-kmitl/wiki/Lab05) |
 |6| TODO |
 |7| [LazyInstagram](https://github.com/up1/course-android-kmitl/wiki/Lab07) |
+|8|[Espresso](https://github.com/up1/course-android-kmitl/wiki/Lab08)|
 
 ## Final project :cupid::cupid:
 รายละเอียดของ [Final project](https://github.com/up1/course-android-kmitl/wiki/Final_project)
