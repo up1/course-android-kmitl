@@ -39,7 +39,7 @@
 |3| [My Dot app (Create app)](https://github.com/up1/course-android-kmitl/wiki/Lab03) |
 |4| [My Dot app (Use intent)](https://github.com/up1/course-android-kmitl/wiki/Lab04)|
 |5| [My Dot app (Use Fragment)](https://github.com/up1/course-android-kmitl/wiki/Lab05) |
-|6| TODO |
+|6| [UI and UX](https://github.com/up1/course-android-kmitl/wiki/Lab06) |
 |7| [LazyInstagram](https://github.com/up1/course-android-kmitl/wiki/Lab07) |
 |8|[Espresso](https://github.com/up1/course-android-kmitl/wiki/Lab08)|
 |9|[Database](https://github.com/up1/course-android-kmitl/wiki/Lab09)|
