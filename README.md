@@ -18,7 +18,7 @@
 | 9      |2017/10/06     | [Manage data with RESTFul APIs with Retrofit + OkHttp](https://github.com/up1/course-android-kmitl/tree/master/slide/day07) | `Somkiat` and Greeta  |
 | 10      |2017/10/20     | [Introduction to Testing for Android app (User Interface Testing)](https://github.com/up1/course-android-kmitl/blob/master/slide/day08)| Ladarat  |
 | 11      |2017/11/03     | [Android storage (SQLite, Room)](https://github.com/up1/course-android-kmitl/blob/master/slide/day09) | `Prayoch` and Ladarat  |
-| 12      |2017/11/10     | Introduction to Testing for Android app| `Somkiat`   |
+| 12      |2017/11/10     | [Introduction to Testing for Android app](https://github.com/up1/course-android-kmitl/tree/master/slide/day10)| `Somkiat`   |
 | 13      |2017/11/17     | Introduction to Testing for Android app| `Somkiat`   |
 | 14      |2017/11/24     | Introduction to Architecture Component| `Somkiat` and Ladarat    |
 | 15      |2017/11/24     | TBD| `Somkiat`     |
