@@ -43,6 +43,8 @@
 |7| [LazyInstagram](https://github.com/up1/course-android-kmitl/wiki/Lab07) |
 |8|[Espresso](https://github.com/up1/course-android-kmitl/wiki/Lab08)|
 |9|[Database](https://github.com/up1/course-android-kmitl/wiki/Lab09)|
+|10|[Unit testing](https://github.com/up1/course-android-kmitl/wiki/Lab10)|
+
 
 ## Final project :cupid::cupid:
 รายละเอียดของ [Final project](https://github.com/up1/course-android-kmitl/wiki/Final_project)
